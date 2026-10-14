@@ -9,7 +9,6 @@
 Una app que reinventa la experiencia de ir al gimnasio, y centraliza tu experiencia deportiva: Mapa interactivo del gimnasio con la disponibilidad de cada máquina, tracker de calorías y macros, gestor de rutinas, entrenador personal con IA integrada, y un avatar personalizado que evoluciona junto a ti.
  
 </div>
----
  
 > Las tecnologías, arquitectura, proceso de instalación y la licencia aún están por definir. Este documento describe la visión y el alcance del producto.
  
